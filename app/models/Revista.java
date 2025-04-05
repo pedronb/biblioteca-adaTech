@@ -1,3 +1,5 @@
+package models;
+
 public class Revista extends LivroBase {
 
   // TODO colocar tudo privado e criar get and set para as propriedades

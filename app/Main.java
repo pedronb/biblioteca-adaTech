@@ -2,6 +2,10 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 // TODO acentuar as palavras porque nao configurei meu teclado :P
+import dao.BancoDeDadosSimulado;
+import services.GerenciadorDeLivros;
+import services.Menu;
+
 import java.util.Scanner;
 
 public class Main {

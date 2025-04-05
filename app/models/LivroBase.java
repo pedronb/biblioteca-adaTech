@@ -1,4 +1,6 @@
-import interfaces.ILivros;
+package models;
+
+import models.intefaces.ILivros;
 
 public abstract class LivroBase implements ILivros {
   public int Id;

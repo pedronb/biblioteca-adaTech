@@ -1,12 +1,13 @@
-// Ainda nao sei como iremos usar essa classe.
+package services;// Ainda nao sei como iremos usar essa classe.
 //
 
+import models.Autor;
+import models.Categoria;
+import models.LivroDigital;
+import models.intefaces.IEmprestavel;
+import models.intefaces.ILivros;
+
 import java.util.Scanner;
-
-import com.sun.source.tree.ReturnTree;
-
-import interfaces.IEmprestavel;
-import interfaces.ILivros;
 
 public class GerenciadorDeLivros implements IEmprestavel {
 

@@ -1,3 +1,7 @@
+package services;
+
+import models.Categoria;
+
 import java.util.Scanner;
 // TODO utilizar o arrayList de categoria para reaproveitar as categoria
 

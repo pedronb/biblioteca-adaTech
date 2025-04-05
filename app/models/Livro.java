@@ -1,3 +1,5 @@
+package models;
+
 public abstract class Livro extends LivroBase {
   public String ISBN;
 

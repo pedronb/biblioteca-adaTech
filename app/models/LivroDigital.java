@@ -1,4 +1,4 @@
-import interfaces.ILivros;
+package models;
 
 public class LivroDigital extends Livro {
 
